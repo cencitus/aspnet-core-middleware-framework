@@ -22,7 +22,7 @@ dotnet --version
 
 1. Клонировать репозиторий:
 
-git clone https://github.com/<username>/aspnet-core-middleware-framework.git  
+git clone https://github.com/cencitus/aspnet-core-middleware-framework.git  
 cd aspnet-core-middleware-framework
 
 2. Запустить приложение:
